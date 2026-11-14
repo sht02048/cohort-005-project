@@ -121,7 +121,7 @@ Lesson, and the Student is the only one who sees it.
 _Avoid_: Favourite, star, saved item
 
 **Note**:
-A Student's own writing about a Lesson, private to the Student who wrote it.
-One per Student per Lesson. A Note is not a Comment — a Comment is addressed
-to other people, a Note is addressed to nobody.
+A Student's own writing about a Lesson, one per Student per Lesson, private to
+the Student who wrote it: no Instructor or Platform Admin can read it. A Note
+is not a Comment: a Comment is addressed to other people, a Note to nobody.
 _Avoid_: Annotation, scratchpad, memo
